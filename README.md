@@ -60,11 +60,11 @@ Works on: Ubuntu, Mint, Debian, Arch, Manjaro, Fedora, openSUSE (and most deriva
  Works on laptops and desktops (battery info may be missing on desktops)
  GPU-specific commands may require additional drivers/tools:
 
-NVIDIA → nvidia-smi,
+  NVIDIA → nvidia-smi
 
-AMD → rocm-smi,
+  AMD → rocm-smi
 
-Intel → intel_gpu_top,
+  Intel → intel_gpu_top
 
 CPU stress test is quick (10s) for safety, can be modified in the script
 
