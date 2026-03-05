@@ -13,6 +13,10 @@ Works on: Ubuntu, Mint, Debian, Arch, Manjaro, Fedora, openSUSE (and most deriva
  Checks SSD/NVMe health via SMART data (smartctl)
  Auto-installs missing tools (smartctl, dmidecode, stress, upower, lscpu, lsblk, lspci, sensors) if a supported package manager is detected
  Outputs results to terminal and a timestamped text file
+ 
+ HardwareChecker is intended for buyers who want to validate system hardware before purchasing second-hand laptops or desktops, particularly from unverified sellers.
+
+ ⚠️ Note: Apple (macOS) devices are not supported at this time.
 
 ---
 
