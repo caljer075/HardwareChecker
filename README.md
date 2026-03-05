@@ -14,7 +14,7 @@ Works on: Ubuntu, Mint, Debian, Arch, Manjaro, Fedora, openSUSE (and most deriva
  Auto-installs missing tools (smartctl, dmidecode, stress, upower, lscpu, lsblk, lspci, sensors) if a supported package manager is detected
  Outputs results to terminal and a timestamped text file
  
- HardwareChecker is intended for buyers who want to validate system hardware before purchasing second-hand laptops or desktops, particularly from unverified sellers.
+ HardwareChecker is intended for buyers who want to validate system hardware before purchasing second-hand laptops or desktops, particularly from unverified sellers using a Linux Live USB.
 
  ⚠️ Note: Apple (macOS) devices are not supported at this time.
 
@@ -22,7 +22,7 @@ Works on: Ubuntu, Mint, Debian, Arch, Manjaro, Fedora, openSUSE (and most deriva
 
  ◽ Requirements
 
- Linux OS with root access
+ Linux OS with root accesss
  Optional: Wi-Fi for auto-install of missing packages
  Recommended tools (script will try to install if missing):
 
