@@ -61,8 +61,11 @@ Works on: Ubuntu, Mint, Debian, Arch, Manjaro, Fedora, openSUSE (and most deriva
  GPU-specific commands may require additional drivers/tools:
 
 NVIDIA → nvidia-smi,
+
 AMD → rocm-smi,
+
 Intel → intel_gpu_top,
+
 CPU stress test is quick (10s) for safety, can be modified in the script
 
 ---
